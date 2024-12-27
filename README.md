@@ -1,2 +1,3 @@
-# EDA-Advance_House_Prediction
-Factors affecting SalesPrice
+# House_Prediction
+Model explored in HousePred 
+EDA separate
